@@ -17,6 +17,21 @@ use Illuminate\Support\Facades\Route;
 Route::get('/', function () {
     return view('index');
 });
+Route::get('/portfolio', function(){
+    return view('portfolio-details');
+});
+
+Route::get('/contact', function(){
+    return view('contact');
+});
+
+Route::get('/not-found', function(){
+    return view('404');
+});
+
+Route::get('/blog', function(){
+    return view('blog-single');
+});
 
 Route::get('/dashboard', function () {
     return view('dashboard');
