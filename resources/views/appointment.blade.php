@@ -1,17 +1,16 @@
 @include('header');
 
-	
-		<!-- Breadcrumbs -->
-		<div class="breadcrumbs overlay">
+<!-- Breadcrumbs -->
+<div class="breadcrumbs overlay">
 			<div class="container">
 				<div class="bread-inner">
 					<div class="row">
 						<div class="col-12">
-							<h2>Contact Us</h2>
+							<h2>Appointment</h2>
 							<ul class="bread-list">
 								<li><a href="{{ url('/') }}">Home</a></li>
 								<li><i class="icofont-simple-right"></i></li>
-								<li class="active">Contact Us</li>
+								<li class="active">Appointment</li>
 							</ul>
 						</div>
 					</div>
@@ -28,14 +27,15 @@
 						<div class="col-lg-6">
 							<div class="contact-us-left">
 								<!--Start Google-map -->
-								<div id="myMap"></div>
+								<div id="myMap">
+                                    <img class="w-100 h-100" src="/frontend/img/pf4.jpg" alt="">
+                                </div>
 								<!--/End Google-map -->
 							</div>
 						</div>
 						<div class="col-lg-6">
 							<div class="contact-us-form">
-								<h2>Contact With Us</h2>
-								<p>If you have any questions please fell free to contact with us.</p>
+								<h2>Appointment</h2>
 								<!-- Form -->
 								<form class="form" method="post" action="mail/mail.php">
 									<div class="row">
@@ -119,5 +119,5 @@
 			</div>
 		</section>
 		<!--/ End Contact Us -->
-		
-		@include('footer');
+
+@include('footer');

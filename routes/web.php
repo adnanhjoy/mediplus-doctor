@@ -33,6 +33,10 @@ Route::get('/blog', function(){
     return view('blog-single');
 });
 
+Route::get('/appointment', function(){
+    return view('appointment');
+});
+
 Route::get('/dashboard', function () {
     return view('dashboard');
 })->middleware(['auth', 'verified'])->name('dashboard');
