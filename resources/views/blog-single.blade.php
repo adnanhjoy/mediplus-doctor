@@ -30,14 +30,14 @@
 								<div class="single-main">
 									<!-- News Head -->
 									<div class="news-head">
-										<img src="img/blog1.jpg" alt="#">
+										<img src="/frontend/img/blog1.jpg" alt="#">
 									</div>
 									<!-- News Title -->
 									<h1 class="news-title"><a href="news-single.html">More than 80 clinical trials launch to test of the coronavirus .</a></h1>
 									<!-- Meta -->
 									<div class="meta">
 										<div class="meta-left">
-											<span class="author"><a href="#"><img src="img/author1.jpg" alt="#">Naimur Rahman</a></span>
+											<span class="author"><a href="#"><img src="/frontend/img/author1.jpg" alt="#">Naimur Rahman</a></span>
 											<span class="date"><i class="fa fa-clock-o"></i>03 Feb 2019</span>
 										</div>
 										<div class="meta-right">
@@ -53,12 +53,12 @@
 											<div class="row">
 												<div class="col-lg-6 col-md-6 col-12">
 													<div class="single-image">
-														<img src="img/blog2.jpg" alt="#">
+														<img src="/frontend/img/blog2.jpg" alt="#">
 													</div>
 												</div>
 												<div class="col-lg-6 col-md-6 col-12">
 													<div class="single-image">
-														<img src="img/blog3.jpg" alt="#">
+														<img src="/frontend/img/blog3.jpg" alt="#">
 													</div>
 												</div>
 											</div>
@@ -96,7 +96,7 @@
 										<div class="single-comments">
 											<div class="main">
 												<div class="head">
-													<img src="img/author1.jpg" alt="#"/>
+													<img src="/frontend/img/author1.jpg" alt="#"/>
 												</div>
 												<div class="body">
 													<h4>Afsana Mimi</h4>
@@ -111,7 +111,7 @@
 										<div class="single-comments left">
 											<div class="main">
 												<div class="head">
-													<img src="img/author2.jpg" alt="#"/>
+													<img src="/frontend/img/author2.jpg" alt="#"/>
 												</div>
 												<div class="body">
 													<h4>Naimur Rahman</h4>
@@ -126,7 +126,7 @@
 										<div class="single-comments">
 											<div class="main">
 												<div class="head">
-													<img src="img/author3.jpg" alt="#"/>
+													<img src="/frontend/img/author3.jpg" alt="#"/>
 												</div>
 												<div class="body">
 													<h4>Suriya Molharta</h4>
@@ -210,7 +210,7 @@
 								<!-- Single Post -->
 								<div class="single-post">
 									<div class="image">
-										<img src="img/blog-sidebar1.jpg" alt="#">
+										<img src="/frontend/img/blog-sidebar1.jpg" alt="#">
 									</div>
 									<div class="content">
 										<h5><a href="#">We have annnocuced our new product.</a></h5>
@@ -224,7 +224,7 @@
 								<!-- Single Post -->
 								<div class="single-post">
 									<div class="image">
-										<img src="img/blog-sidebar2.jpg" alt="#">
+										<img src="/frontend/img/blog-sidebar2.jpg" alt="#">
 									</div>
 									<div class="content">
 										<h5><a href="#">Top five way for solving teeth problems.</a></h5>
@@ -238,7 +238,7 @@
 								<!-- Single Post -->
 								<div class="single-post">
 									<div class="image">
-										<img src="img/blog-sidebar3.jpg" alt="#">
+										<img src="/frontend/img/blog-sidebar3.jpg" alt="#">
 									</div>
 									<div class="content">
 										<h5><a href="#">We provide highly business soliutions.</a></h5>

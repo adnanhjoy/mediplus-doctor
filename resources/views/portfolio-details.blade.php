@@ -28,9 +28,9 @@
 						<div class="inner-content">
 							<div class="image-slider">
 								<div class="pf-details-slider">
-									<img src="img/call-bg.jpg" alt="#">
-									<img src="img/call-bg.jpg" alt="#">
-									<img src="img/call-bg.jpg" alt="#">
+									<img src="/frontend/img/call-bg.jpg" alt="#">
+									<img src="/frontend/img/call-bg.jpg" alt="#">
+									<img src="/frontend/img/call-bg.jpg" alt="#">
 								</div>
 							</div>
 							<div class="date">

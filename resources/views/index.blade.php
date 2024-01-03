@@ -131,7 +131,7 @@
 					<div class="col-lg-12">
 						<div class="section-title">
 							<h2>We Are Always Ready to Help You & Your Family</h2>
-							<img src="img/section-img.png" alt="#">
+							<img src="/frontend/img/section-img.png" alt="#">
 							<p>Lorem ipsum dolor sit amet consectetur adipiscing elit praesent aliquet. pretiumts</p>
 						</div>
 					</div>
@@ -235,7 +235,7 @@
 					<div class="col-lg-12">
 						<div class="section-title">
 							<h2>We Offer Different Services To Improve Your Health</h2>
-							<img src="img/section-img.png" alt="#">
+							<img src="/frontend/img/section-img.png" alt="#">
 							<p>Lorem ipsum dolor sit amet consectetur adipiscing elit praesent aliquet. pretiumts</p>
 						</div>
 					</div>
@@ -315,7 +315,7 @@
 					<div class="col-lg-12">
 						<div class="section-title">
 							<h2>We Maintain Cleanliness Rules Inside Our Hospital</h2>
-							<img src="img/section-img.png" alt="#">
+							<img src="/frontend/img/section-img.png" alt="#">
 							<p>Lorem ipsum dolor sit amet consectetur adipiscing elit praesent aliquet. pretiumts</p>
 						</div>
 					</div>
@@ -326,35 +326,35 @@
 					<div class="col-lg-12 col-12">
 						<div class="owl-carousel portfolio-slider">
 							<div class="single-pf">
-								<img src="img/pf1.jpg" alt="#">
+								<img src="/frontend/img/pf1.jpg" alt="#">
 								<a href="portfolio-details.html" class="btn">View Details</a>
 							</div>
 							<div class="single-pf">
-								<img src="img/pf2.jpg" alt="#">
+								<img src="/frontend/img/pf2.jpg" alt="#">
 								<a href="portfolio-details.html" class="btn">View Details</a>
 							</div>
 							<div class="single-pf">
-								<img src="img/pf3.jpg" alt="#">
+								<img src="/frontend/img/pf3.jpg" alt="#">
 								<a href="portfolio-details.html" class="btn">View Details</a>
 							</div>
 							<div class="single-pf">
-								<img src="img/pf4.jpg" alt="#">
+								<img src="/frontend/img/pf4.jpg" alt="#">
 								<a href="portfolio-details.html" class="btn">View Details</a>
 							</div>
 							<div class="single-pf">
-								<img src="img/pf1.jpg" alt="#">
+								<img src="/frontend/img/pf1.jpg" alt="#">
 								<a href="portfolio-details.html" class="btn">View Details</a>
 							</div>
 							<div class="single-pf">
-								<img src="img/pf2.jpg" alt="#">
+								<img src="/frontend/img/pf2.jpg" alt="#">
 								<a href="portfolio-details.html" class="btn">View Details</a>
 							</div>
 							<div class="single-pf">
-								<img src="img/pf3.jpg" alt="#">
+								<img src="/frontend/img/pf3.jpg" alt="#">
 								<a href="portfolio-details.html" class="btn">View Details</a>
 							</div>
 							<div class="single-pf">
-								<img src="img/pf4.jpg" alt="#">
+								<img src="/frontend/img/pf4.jpg" alt="#">
 								<a href="portfolio-details.html" class="btn">View Details</a>
 							</div>
 						</div>
@@ -371,7 +371,7 @@
 					<div class="col-lg-12">
 						<div class="section-title">
 							<h2>We Offer Different Services To Improve Your Health</h2>
-							<img src="img/section-img.png" alt="#">
+							<img src="/frontend/img/section-img.png" alt="#">
 							<p>Lorem ipsum dolor sit amet consectetur adipiscing elit praesent aliquet. pretiumts</p>
 						</div>
 					</div>
@@ -443,7 +443,7 @@
 					<div class="col-lg-12">
 						<div class="section-title">
 							<h2>We Provide You The Best Treatment In Resonable Price</h2>
-							<img src="img/section-img.png" alt="#">
+							<img src="/frontend/img/section-img.png" alt="#">
 							<p>Lorem ipsum dolor sit amet consectetur adipiscing elit praesent aliquet. pretiumts</p>
 						</div>
 					</div>
@@ -547,7 +547,7 @@
 					<div class="col-lg-12">
 						<div class="section-title">
 							<h2>Keep up with Our Most Recent Medical News.</h2>
-							<img src="img/section-img.png" alt="#">
+							<img src="/frontend/img/section-img.png" alt="#">
 							<p>Lorem ipsum dolor sit amet consectetur adipiscing elit praesent aliquet. pretiumts</p>
 						</div>
 					</div>
@@ -557,7 +557,7 @@
 						<!-- Single Blog -->
 						<div class="single-news">
 							<div class="news-head">
-								<img src="img/blog1.jpg" alt="#">
+								<img src="/frontend/img/blog1.jpg" alt="#">
 							</div>
 							<div class="news-body">
 								<div class="news-content">
@@ -573,7 +573,7 @@
 						<!-- Single Blog -->
 						<div class="single-news">
 							<div class="news-head">
-								<img src="img/blog2.jpg" alt="#">
+								<img src="/frontend/img/blog2.jpg" alt="#">
 							</div>
 							<div class="news-body">
 								<div class="news-content">
@@ -589,7 +589,7 @@
 						<!-- Single Blog -->
 						<div class="single-news">
 							<div class="news-head">
-								<img src="img/blog3.jpg" alt="#">
+								<img src="/frontend/img/blog3.jpg" alt="#">
 							</div>
 							<div class="news-body">
 								<div class="news-content">
@@ -613,31 +613,31 @@
 					<div class="col-lg-12 col-md-12 col-12">
 						<div class="owl-carousel clients-slider">
 							<div class="single-clients">
-								<img src="img/client1.png" alt="#">
+								<img src="/frontend/img/client1.png" alt="#">
 							</div>
 							<div class="single-clients">
-								<img src="img/client2.png" alt="#">
+								<img src="/frontend/img/client2.png" alt="#">
 							</div>
 							<div class="single-clients">
-								<img src="img/client3.png" alt="#">
+								<img src="/frontend/img/client3.png" alt="#">
 							</div>
 							<div class="single-clients">
-								<img src="img/client4.png" alt="#">
+								<img src="/frontend/img/client4.png" alt="#">
 							</div>
 							<div class="single-clients">
-								<img src="img/client5.png" alt="#">
+								<img src="/frontend/img/client5.png" alt="#">
 							</div>
 							<div class="single-clients">
-								<img src="img/client1.png" alt="#">
+								<img src="/frontend/img/client1.png" alt="#">
 							</div>
 							<div class="single-clients">
-								<img src="img/client2.png" alt="#">
+								<img src="/frontend/img/client2.png" alt="#">
 							</div>
 							<div class="single-clients">
-								<img src="img/client3.png" alt="#">
+								<img src="/frontend/img/client3.png" alt="#">
 							</div>
 							<div class="single-clients">
-								<img src="img/client4.png" alt="#">
+								<img src="/frontend/img/client4.png" alt="#">
 							</div>
 						</div>
 					</div>
@@ -653,7 +653,7 @@
 					<div class="col-lg-12">
 						<div class="section-title">
 							<h2>We Are Always Ready to Help You. Book An Appointment</h2>
-							<img src="img/section-img.png" alt="#">
+							<img src="/frontend/img/section-img.png" alt="#">
 							<p>Lorem ipsum dolor sit amet consectetur adipiscing elit praesent aliquet. pretiumts</p>
 						</div>
 					</div>
@@ -729,7 +729,7 @@
 					</div>
 					<div class="col-lg-6 col-md-12 ">
 						<div class="appointment-image">
-							<img src="img/contact-img.png" alt="#">
+							<img src="/frontend/img/contact-img.png" alt="#">
 						</div>
 					</div>
 				</div>
