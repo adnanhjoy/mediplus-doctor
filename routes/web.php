@@ -37,6 +37,10 @@ Route::get('/appointment', function(){
     return view('appointment');
 });
 
+Route::get('/doctor', function(){
+    return view('doctor');
+});
+
 Route::get('/dashboard', function () {
     return view('dashboard');
 })->middleware(['auth', 'verified'])->name('dashboard');

@@ -130,8 +130,8 @@
 													<li><a href="/">Home Page 1</a></li>
 												</ul>
 											</li>
-											<li><a href="{{url('portfolio')}}">Doctos </a></li>
-											<li><a href="#">Services </a></li>
+											<li><a href="{{url('doctor')}}">Doctos </a></li>
+											<li><a href="{{url('portfolio')}}">Services </a></li>
 											<li><a href="#">Pages <i class="icofont-rounded-down"></i></a>
 												<ul class="dropdown">
 													<li><a href="{{url('not-found')}}">404 Error</a></li>
